@@ -17,8 +17,6 @@ class ViewController: UIViewController {
     
     let name = "Kashi"
     
-    let name1 = "ASdasdas"
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
