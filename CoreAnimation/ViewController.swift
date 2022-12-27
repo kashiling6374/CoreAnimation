@@ -19,6 +19,9 @@ class ViewController: UIViewController {
     
     let name1 = "ASdasdas"
     
+    
+    let number = 12313q
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
