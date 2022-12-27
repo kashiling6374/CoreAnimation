@@ -11,6 +11,9 @@ class ViewController: UIViewController {
 
     let asdas = 12312
     
+    
+    let asdasd = "Asdasdasdas"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
